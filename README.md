@@ -1,7 +1,7 @@
 # CGL-SPPU
 This repository contains the Assignment code of Computer Graphics  Assignments of SPPU, Second Year IT Syllabus (2019 pattern)
 
-**OS used:** Linux
+**OS used:** Ubuntu
 ## OpenGL installation on Ubuntu:
 1. sudo apt-get update
 2. sudo apt-get install freeglut3
