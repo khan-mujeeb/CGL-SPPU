@@ -51,3 +51,12 @@ glxinfo | grep OpenGL
 	} 
 ```
 * ## [code](https://github.com/khan-mujeeb/CGL-SPPU/tree/main/Basic%20Structure)
+
+# CGL
+## This repository contains the Assignment code of Computer Graphics Lab of SPPU, Second Year IT Syllabus (2019 pattern)
+***
+
+### Assignment and Problem Statement
+---
+|ASSIGNMENT| PROBLEM STATEMENT|
+|----------|-----------------|
