@@ -62,3 +62,7 @@ glxinfo | grep OpenGL
 |----------|-----------------|
 |[Assignment 2](https://github.com/khan-mujeeb/CGL-SPPU/tree/main/Assignment2)|Implement DDA and Bresenham line drawing algorithm to draw: i) Simple Line ii) Dotted Line iii) Dashed Line iv) Solid line; using mouse interface Divide the screen in four quadrants with center as (0, 0). The line should work for all the slopes positive as well as negative.|
 |[Assignment 3](https://github.com/khan-mujeeb/CGL-SPPU/tree/main/Assignment3)|Implement Bresenham circle drawing algorithm to draw any object.The object should be displayed in all the quadrants with respect to center and radius|
+|[Assignment 4](https://github.com/khan-mujeeb/CGL-SPPU/tree/main/Assignment4)|Implement the following polygon filling methods : i) Flood fill / Seed fill ii) Boundary fill ; using mouse click, keyboard interface and menu driven programming|
+|[Assignment 5](https://github.com/khan-mujeeb/CGL-SPPU/tree/main/Assignment5)| Implement Cohen Sutherland polygon clipping method to clip the polygon with respect the viewport and window. Use mouse click, keyboard interface|
+|[Assignment 6](https://github.com/khan-mujeeb/CGL-SPPU/tree/main/Assignment6)|Implement following 2D transformations on the object with respect to axis i) Scaling ii) Rotation about arbitrary point iii) Reflection|
+|[Assignment 7](https://github.com/khan-mujeeb/CGL-SPPU/tree/main/Assignment7)|Generate fractal patterns using i) Koch Curve|
