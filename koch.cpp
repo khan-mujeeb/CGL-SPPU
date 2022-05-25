@@ -16,7 +16,6 @@ void koch(int x1,int y1,int x2,int y2,int m) {
 	x[4] = x2;
 	y[4] = y2;
 	
-	cout<<x2<<" "<<y2;
 	int lx = (x2-x1)/3;
 	int ly = (y2-y1)/3;
 	
